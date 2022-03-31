@@ -1,0 +1,21 @@
+.Result-box {
+  min-height: 500px;
+}
+.Result-row-box {
+  margin: 12px 0 12px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  overflow-y: auto;
+}
+
+.Result-data {
+  font-size: 15px;
+  color: #7a7a7a;
+}
+
+.Result-answer {
+  font-size: 18px;
+  color: #f54f61;
+}
